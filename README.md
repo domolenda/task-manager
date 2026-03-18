@@ -2,7 +2,7 @@
 task manager project for user interface design class
 
 # team
-- [Dominik Molenda](https://github.com/dominikmol)
+- [Dominik Molenda](https://github.com/domolenda)
 - [Kirill Rodin](https://github.com/Cheater4sT)
 - [Marcin Jasnowski](https://github.com/GodNorth)
 - [Vitalii Zubkov](https://github.com/Vitalii724)
